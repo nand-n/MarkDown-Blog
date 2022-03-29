@@ -5,7 +5,7 @@ Foobar is a Python library for dealing with word pluralization.
 ## Installation
 Download and install nodejs [node.js](https://nodejs.org/en/download/) to Download Nodejs
 
-##Importing Dependensies 
+## Importing Dependensies 
 ```bash
 npm i express ejs mongoose
 ```
