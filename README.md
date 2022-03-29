@@ -3,32 +3,17 @@
 Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
+Download and install nodejs [node.js](https://nodejs.org/en/download/) to Download Nodejs
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+##Importing Dependensies 
 ```bash
-pip install foobar
+npm i express ejs mongoose
 ```
 
 ## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+I am practicing node js and web development i hope it workes 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
